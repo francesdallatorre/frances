@@ -23,7 +23,7 @@
 - 🚢 Google Cloud:| Google Storage
 - 🏄‍♂️ Netlify 
 ---
-![Frances' github stats](https://github-readme-stats.vercel.app/api?username=wkennedy8&show_icons=true)
+![Frances' github stats](https://github-readme-stats.vercel.app/api?username=francesdallatorre&show_icons=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=francesdallatorre.francesdallatorre)
 <!--
