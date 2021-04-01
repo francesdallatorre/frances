@@ -13,7 +13,7 @@
 
  ## 🛠 Tech Stack
 
- - 💻 Node.js | Ruby | Bash
+ - 💻 Node.js |
  - 🌐 ReactJS |  
  - 🐙 Express
  - 🐘 PostgreSQL | MongoDB
