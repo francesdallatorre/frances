@@ -6,9 +6,9 @@
 
 
  - 🤔 Full Stack Developer that leans towards front end technologies.
- - 🌱 Currently learning Python and Flask.
+ - 🌱 Currently learning React Native.
  - 📩 You can reach me at [francesdallatorre@hotmail.com]
- - ✅ Next on the list, React Native.
+ - ✅ Next on the list, Python.
 
 
  ## 🛠 Tech Stack
