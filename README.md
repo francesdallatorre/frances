@@ -6,7 +6,7 @@
 
 
  - 🤔 Full Stack Developer that leans towards front end technologies.
- - 🌱 Currently learning React Native.
+ - 🌱 Currently learning ServiceNow.
  - 📩 You can reach me at [francesdallatorre@hotmail.com]
  - ✅ Next on the list, Python.
 
@@ -14,7 +14,7 @@
  ## 🛠 Tech Stack
 
  - 💻 Node.js |
- - 🌐 ReactJS |  
+ - 🌐 ReactJS | React Native  
  - 🐙 Express
  - 🐘 PostgreSQL | MongoDB
 - 🌐 JavaScript | HTML | CSS |
